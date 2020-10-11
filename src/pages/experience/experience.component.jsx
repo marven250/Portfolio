@@ -12,6 +12,48 @@ const Experience = () => {
   return (
     <div id="experience">
       <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
+     
+      <Jumbotron className="jumbo-style">
+        <Container>
+          <Tilt options={{ max: 25 }}>
+            <Card>
+              <Card.Header
+                as="h5"
+                className="d-flex justify-content-center flex-wrap"
+              >
+                <Card.Img
+                  variant="top"
+                  className="img-resize"
+                  src={TRILOGY}
+                  alt="Trilogy Logo"
+                />
+              </Card.Header>
+              <Card.Body className="d-flex justify-content-center flex-column">
+                <div>
+                  <Card.Title className="text-center">Instructor</Card.Title>
+                </div>
+                <div>
+                  <Card.Text className="text-center style">
+                    <strong className="body-title-style ">
+                      Teaching Assistant
+                    </strong>
+                    <br />
+                    <strong>Role:</strong> Student Support
+                    <br />
+                    <strong>Description:</strong> <u>Explained </u>
+                    all aspects of web development: HTML, CSS, JavaScript, MERN
+                    stack, Version Control (git), Deployment, etc.
+                    <br />
+                    <br />
+                    <strong>Duration:</strong> Mar 2020 - Present
+                  </Card.Text>
+                </div>
+              </Card.Body>
+            </Card>
+          </Tilt>
+        </Container>
+      </Jumbotron>
+
       <Jumbotron className="jumbo-style">
         <Container>
           <Tilt options={{ max: 25 }}>
@@ -48,46 +90,6 @@ const Experience = () => {
                     <br />
                     <br />
                     <strong>Duration:</strong> April 2020 - August 2020
-                  </Card.Text>
-                </div>
-              </Card.Body>
-            </Card>
-          </Tilt>
-        </Container>
-      </Jumbotron>
-      <Jumbotron className="jumbo-style">
-        <Container>
-          <Tilt options={{ max: 25 }}>
-            <Card>
-              <Card.Header
-                as="h5"
-                className="d-flex justify-content-center flex-wrap"
-              >
-                <Card.Img
-                  variant="top"
-                  className="img-resize"
-                  src={TRILOGY}
-                  alt="Trilogy Logo"
-                />
-              </Card.Header>
-              <Card.Body className="d-flex justify-content-center flex-column">
-                <div>
-                  <Card.Title className="text-center">Instructor</Card.Title>
-                </div>
-                <div>
-                  <Card.Text className="text-center style">
-                    <strong className="body-title-style ">
-                      Teaching Assistant
-                    </strong>
-                    <br />
-                    <strong>Role:</strong> Student Support
-                    <br />
-                    <strong>Description:</strong> <u>Explained </u>
-                    all aspects of web development: HTML, CSS, JavaScript, MERN
-                    stack, Version Control (git), Deployment, etc.
-                    <br />
-                    <br />
-                    <strong>Duration:</strong> Mar 2020 - Present
                   </Card.Text>
                 </div>
               </Card.Body>
