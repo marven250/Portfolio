@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b7a54052.chunk.css",
-    "main.js": "/Portfolio/static/js/main.17c77ea2.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.17c77ea2.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.a701b020.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.a701b020.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.043604f0.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.043604f0.js.map",
     "static/js/2.1fed54db.chunk.js": "/Portfolio/static/js/2.1fed54db.chunk.js",
     "static/js/2.1fed54db.chunk.js.map": "/Portfolio/static/js/2.1fed54db.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.ef6fdb1c1dcf0e7d42f6a8a4349bd8b1.js": "/Portfolio/precache-manifest.ef6fdb1c1dcf0e7d42f6a8a4349bd8b1.js",
+    "precache-manifest.1d705dfaf5c4019adb66da6426133cde.js": "/Portfolio/precache-manifest.1d705dfaf5c4019adb66da6426133cde.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/main.b7a54052.chunk.css.map": "/Portfolio/static/css/main.b7a54052.chunk.css.map",
     "static/js/2.1fed54db.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1fed54db.chunk.js.LICENSE.txt",
     "static/media/AWS.png": "/Portfolio/static/media/AWS.07d0883a.png",
     "static/media/AmazonClone.PNG": "/Portfolio/static/media/AmazonClone.01270d21.PNG",
-    "static/media/ComputerA.webp": "/Portfolio/static/media/ComputerA.7256f309.webp",
-    "static/media/ComputerB.webp": "/Portfolio/static/media/ComputerB.8bce7aef.webp",
+    "static/media/ComputerA.png": "/Portfolio/static/media/ComputerA.855ac989.png",
+    "static/media/ComputerB.png": "/Portfolio/static/media/ComputerB.41c6820a.png",
     "static/media/Java.png": "/Portfolio/static/media/Java.a7fd72b8.png",
     "static/media/MySQL.png": "/Portfolio/static/media/MySQL.51fcab87.png",
     "static/media/NRPLogoCircle.png": "/Portfolio/static/media/NRPLogoCircle.e915fb9b.png",
-    "static/media/Notes.webp": "/Portfolio/static/media/Notes.8e5b87b6.webp",
+    "static/media/Notes.png": "/Portfolio/static/media/Notes.9845d524.png",
     "static/media/RevatureNoBack.png": "/Portfolio/static/media/RevatureNoBack.fb82f419.png",
     "static/media/SpringBoot.png": "/Portfolio/static/media/SpringBoot.f0a5f94d.png",
     "static/media/TrilogyNoBack.png": "/Portfolio/static/media/TrilogyNoBack.ff1a0ddc.png",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.043604f0.js",
     "static/js/2.1fed54db.chunk.js",
     "static/css/main.b7a54052.chunk.css",
-    "static/js/main.17c77ea2.chunk.js"
+    "static/js/main.a701b020.chunk.js"
   ]
 }

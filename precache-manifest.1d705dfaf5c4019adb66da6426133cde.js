@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f26de957fb1933e58a1ffd8148f5f008",
+    "revision": "ec46422afeaf74805513864688220481",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "5e0dae2ea556149d7dd9",
+    "revision": "e6d39991f1e68a221c27",
     "url": "/Portfolio/static/css/main.b7a54052.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.1fed54db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e0dae2ea556149d7dd9",
-    "url": "/Portfolio/static/js/main.17c77ea2.chunk.js"
+    "revision": "e6d39991f1e68a221c27",
+    "url": "/Portfolio/static/js/main.a701b020.chunk.js"
   },
   {
     "revision": "093c476ab6375e2e7388",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/AmazonClone.01270d21.PNG"
   },
   {
-    "revision": "7256f309520276be70acd97720610bc6",
-    "url": "/Portfolio/static/media/ComputerA.7256f309.webp"
+    "revision": "855ac9896ba4013cd46106a6a8c0b635",
+    "url": "/Portfolio/static/media/ComputerA.855ac989.png"
   },
   {
-    "revision": "8bce7aef886c3872c218e0e6ef8bdccb",
-    "url": "/Portfolio/static/media/ComputerB.8bce7aef.webp"
+    "revision": "41c6820abf5fe43110fa545b86ffdc3c",
+    "url": "/Portfolio/static/media/ComputerB.41c6820a.png"
   },
   {
     "revision": "a7fd72b89f1b1bba4ec9b4200bdeb288",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/NRPLogoCircle.e915fb9b.png"
   },
   {
-    "revision": "8e5b87b60151049a8df9ec0bd30978f0",
-    "url": "/Portfolio/static/media/Notes.8e5b87b6.webp"
+    "revision": "9845d524b3cd4b95fdc1314e7517a101",
+    "url": "/Portfolio/static/media/Notes.9845d524.png"
   },
   {
     "revision": "fb82f4193b7ffaa094186082e451318e",
