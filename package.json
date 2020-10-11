@@ -1,6 +1,6 @@
 {
-  "name": "Marven Mathelier Portfolio",
-  "homepage": "",
+  "name": "MarvenMathelierPortfolio",
+  "homepage": "https://marven250.github.io/Portfolio/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
